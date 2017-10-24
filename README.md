@@ -9,6 +9,7 @@ $ git clone https://github.com/hermawantio/simple_project_revisi.git <br />
 <br />
 > coment applications / config / config.php at line 31 if running on http <br />
 <br />
+
 > uncoment applications / config / config.php at line 28 and coment applications / config / config.php at line 31 if running in https <br />
 <br />
 regards,<br />
