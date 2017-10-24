@@ -25,10 +25,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 /* uncoment this if no https  */
-// $config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/simple_project_revisi/";
+// $config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/simple_project_revisi-master/";
 
 /* coment this if no http  */
-$config['base_url'] = "https://".$_SERVER['HTTP_HOST']."/simple_project_revisi/";
+$config['base_url'] = "https://".$_SERVER['HTTP_HOST']."/simple_project_revisi-master/";
 
 /*
 |--------------------------------------------------------------------------
