@@ -1,4 +1,6 @@
-## Synopsis
+## INSTALATION
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+if download with zip, please rename folder to "simple_project_revisi-master" to "simple_project_revisi", we Recomended download with :
+> $ cd some file to save file
+> $ git clone https://github.com/hermawantio/simple_project_revisi.git
 
