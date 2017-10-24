@@ -6,6 +6,6 @@ coment applications / config / config.php at line 31 if running on http
 
 uncoment applications / config / config.php at line 28 and coment applications / config / config.php at line 31 if running in https
 
-regard,
+regards,
 
 hermawan tyo
